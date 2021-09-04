@@ -1,3 +1,5 @@
+![Image](1 copy.jpg)
+
 # About Me
 - Name: Swapan Gupta Chollati
 - Email: swapanc1@umbc.edu
