@@ -1,6 +1,6 @@
-! [Image](1 copy.jpg)
+! [Image] (1 copy.jpg)
 
-# About Me
+# About Me 
 - Name: Swapan Gupta Chollati
 - Email: swapanc1@umbc.edu
 - Phone: +1 667-345-3559
