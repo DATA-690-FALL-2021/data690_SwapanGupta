@@ -9,4 +9,4 @@ background, and ability to work well with people.
 
 # Education
 - Master's of Professional Studies in Data Science (MPS)
-_ University Of Maryland, Baltimore County (UMBC)
+__ University Of Maryland, Baltimore County (UMBC)
