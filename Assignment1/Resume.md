@@ -1,4 +1,4 @@
-! [Image](1copy.jpg)
+![Image](1copy.jpg)
 
 # About Me 
 - Name: Swapan Gupta Chollati
