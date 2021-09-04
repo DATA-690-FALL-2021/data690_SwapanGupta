@@ -10,35 +10,35 @@
 background, and ability to work well with people.
 
 # Education
-- Master's of Professional Studies in Data Science (MPS)
-  - University Of Maryland, Baltimore County (UMBC)
+- **Master's of Professional Studies in Data Science**
+  - University Of Maryland, Baltimore County
   - *08/2021-Present*
   - Baltimore,Maryland,USA
-- B.Tech(Electronics and Communication Engineering)
+- **Bachelor's in Electronics and Communication Engineering**
   - Guru Nanak Institutions Technical Campus
   - *07/2016-09/2020*
   - Ibrahimpatnam,India
-- Intermediate
+- **Intermediate
   - Sri Chaitanya Junior College
   - *06/2014-05/2016*
   - Secunderabad,India
-- SSC
+- **SSC
   - Sri Chaitanya Techno School
   - *06/2013-04/2014*
   - Secunderabad,India
 # Project Works
-- Raspberry Pi-based Object Distance Detector
+- **Raspberry Pi-based Object Distance Detector
   - A Raspberry pi based project that captures an image of any object and provides us with the Coordinates of the object calculating the distance.
-- Remote Patient Health Monitoring System
+- **Remote Patient Health Monitoring System
   - This Project helps to monitor the Health of a Patient by measuring the Body Temperature as well as the Heart Rate simultaneously and displays it on the LCD Screen and sends the information through a text message to a Smartphone.
-- Traffic Congestion Control with Automatic Signal Clearance for Emergency Vehicles
+- **Traffic Congestion Control with Automatic Signal Clearance for Emergency Vehicles
   - This model monitors the traffic system,Emergency and Theft Vehicles efficiently by using Cloud Database.Faster Response,Theft Vehicles Detection & Onetime Installation are some of the plus points.
 # Work Experience
-- Intern
+- **Intern
   - Bharath Sanchar Nigam Limited (BSNL)
-- Intern
+- **Intern
   - Bharat Dynamics Limited (BDL)
-- Customer Service Executive
+- **Customer Service Executive
   - Amazon Development Center
 # Certifications
 - Programming in C (NIIT)
