@@ -34,4 +34,21 @@ background, and ability to work well with people.
 # Work Experience
 - Intern
   - Bharath Sanchar Nigam Limited (BSNL)
+- Intern
+  - Bharat Dynamics Limited (BDL)
+- Customer Service Executive
+  - Amazon Development Center
+# Certifications
+- Programming in C (NIIT)
+- CODEBEAT Techno Fest
+  - *A Tech fest involving workshops on Artificial Intelligence,Virtual Reality*
+# Languages
+- English
+- Telugu
+- Hindi 
+# Interests
+- Photography
+- Gaming
+- Badminton
+- Travelling
     
