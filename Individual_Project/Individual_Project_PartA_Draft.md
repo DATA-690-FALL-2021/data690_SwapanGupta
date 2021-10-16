@@ -25,7 +25,7 @@
 - The above Pi chart shows us the GDP of different countries in the year 2015 with United Arab Emirates having the highest GDP of 28.3% and India the lowest with 2.39%.
 
 
-![Image](Population.png)
+![Image](Population_of_countries.png)
 - But when we compare the population of these countries China is leading the table whereas the United Arab Emirates is the lowest. This shows us that population also plays a key factor in the growth of GDP.
 - This shows us that a country should work according to the population in order to maintain its GDP at the top. The above graph shows that China despite being the most populated country its GDP is quite manageable when compared to other countries.
 
