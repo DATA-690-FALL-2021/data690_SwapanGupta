@@ -4,7 +4,7 @@
 - Science& Technology
 - Infrastructure
 - GDP per capita, PPP (current international $)
-- Investment in telecoms with private participation (current US$)
+- Scientific and Technical Journal Articles
 - Research and development expenditure (% of GDP)
 
 # Countries:
