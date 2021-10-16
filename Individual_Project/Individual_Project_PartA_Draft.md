@@ -37,7 +37,7 @@ As mentioned earlier GDP is calculated with the countries economy. This means if
   - **Investment in Startups**: If a country spends some money on developing and implementing the ideas of startups to a larger extent the technology would rise and would help in GDP growth.
   - **Research & Development**: If a product is deployed for the consumer’s use which is developed by a country and being exported to different countries. It would play a vital role in the growth of the GDP of that country. 
 
-![Image](R%26D.png)
+![Image](Research.png)
 
 - The above Bar graph shows us how different countries are spending on Research and Development. This shows that the United States is spending the most on Research.
 - China is one of the leading countries in technology which has the advancement of technology for the next 5 years. China also equally give importance to R&D for its GDP growth.
