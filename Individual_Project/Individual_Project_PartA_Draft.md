@@ -1,5 +1,8 @@
 # Factors which play a vital role in countries GDP.
 
+## Name: Swapan Gupta Chollati
+## University of Maryland Baltimore County
+
 # Topics&Indicators:
 - Science& Technology
 - Infrastructure
