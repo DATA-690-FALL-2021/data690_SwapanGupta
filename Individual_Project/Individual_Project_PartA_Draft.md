@@ -9,6 +9,7 @@
 - GDP per capita, PPP (current international $)
 - Scientific and Technical Journal Articles
 - Research and development expenditure (% of GDP)
+- Population, total
 
 # Countries:
 - India
