@@ -1,0 +1,1 @@
+This files contains the reports generated for the tests performed in https://ce.ezanalytix.com/index
