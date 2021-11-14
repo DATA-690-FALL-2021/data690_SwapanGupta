@@ -1,1 +1,2 @@
-This files contains the reports generated for the tests performed in https://ce.ezanalytix.com/index
+- This folder is for Assignment 11.
+- It contains the reports generated for the tests performed in https://ce.ezanalytix.com/index
